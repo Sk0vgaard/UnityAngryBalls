@@ -598,6 +598,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 765ff79a4d52a2449bc48e35e3ef8b41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prefabProjectile: {fileID: 1617168015102220, guid: e7920ea19531d804aa2cb497d42c97d3,
+    type: 2}
+  velocityMult: 7
 --- !u!1 &2109694754
 GameObject:
   m_ObjectHideFlags: 0
